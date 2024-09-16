@@ -1,0 +1,106 @@
+
+
+body{
+background-image: url("pp.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+border: 20px solid rgb(216, 59, 227);
+}
+
+
+p{
+font-family: 'Cambria, Cochin, Georgia, Times, Times New Roman, serif';
+font-size: 20px;
+color:chocolate;
+text-align: justify;
+font-weight: 300;
+}
+h1{
+    color:brown;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+ }
+ h2{
+    border: 10px solid green;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+ }
+table{
+    border-collapse: collapse;
+    width: auto;
+    margin: auto;
+}
+ td{
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 30px;
+}
+tr{
+    border: 5px solid;
+    padding: 20px;
+    margin: 30px;
+}
+ol{
+    color: rgb(191, 25, 200);
+    font-size: 24px;
+}
+li{
+    color: blue;
+    font-size: 17px;
+}
+.image_section {
+    border: 10px solid red;
+}
+.image1{
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid red;
+    border-radius: 50%;
+}
+a:link, a:visited {
+    background-color:chocolate;
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color:green;
+    color: white;
+    padding: 10px; 
+    font-size: 27px;
+    border-radius: 10px;
+    text-align: center;
+}
+fieldset{
+    margin-left: 400px;
+    width: 50%;
+    background-color: rgb(164, 174, 163);
+}
+.form_section
+{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: aqua;
+    color: white;
+    font-size: 14px;
+}
+label{
+    font-size: 20px;
+    color: white;
+    background-color: chocolate;
+}
+img{
+  border-radius: 60px;
+}
+p{
+    color: blue;
+}
+h1{
+    color: red;
+}
